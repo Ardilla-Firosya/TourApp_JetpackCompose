@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetpackComposeTourApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="name">Ardilla Firosya</string>
+    <string name="email">ardillafrsya34@gmail.com</string>
+    <string name="ig">ardillafirosya</string>
+    <string name="back">Back</string>
+    <string name="search_menu">Temukan Tempat Wisatamu</string>
+    <string name="linkedin">Ardilla Firosya</string>
+    <string name="university">UPN Veteran Jawa Timur</string>
+</resources>
